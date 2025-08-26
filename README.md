@@ -5,7 +5,7 @@ Questo repository contiene il materiale empirico e gli script Python utilizzati 
 
 ## Obiettivo della ricerca
 
-Analizzare e confrontare la **destination image** della Sicilia su Instagram, distinguendo tra:
+Analizzare e confrontare la **tourist destination image** della Sicilia su Instagram, distinguendo tra:
 
 - **Immagine proiettata**: contenuti visivi pubblicati dall’account ufficiale “@visit.sicily”
 - **Immagine percepita**: contenuti generati dagli utenti (UGC), con un focus sulla **Generazione Z**
